@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm TESFAB TEFERA</h1>
-<h3 align="center">A passionate SOFTWARE ENGINEERING STUDENT</h3>
+<h3 align="center">A SOFTWARE ENGINEERING STUDENT</h3>
 <img align="right" alt="coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tesfab94&label=Profile%20views&color=0e75b6&style=flat" alt="tesfab94" /> </p>
